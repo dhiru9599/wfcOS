@@ -43,7 +43,7 @@ export const DesktopBackground = () => {
       />
     );
   }
-
+//this is main part
   return (
     <div className="fixed inset-0 w-full h-full -z-20">
       <Image
